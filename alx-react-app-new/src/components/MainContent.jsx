@@ -21,10 +21,7 @@ function MainContent() {
           color: "#333",
         }}
       >
-        I love to visit{" "}
-        <span style={{ color: "#0077cc", fontWeight: "bold" }}>New York</span>,{" "}
-        <span style={{ color: "#e91e63", fontWeight: "bold" }}>Paris</span>, and{" "}
-        <span style={{ color: "#ff9800", fontWeight: "bold" }}>Tokyo</span>.
+        I love to visit New York, Paris, and Tokyo.
       </p>
     </main>
   );
